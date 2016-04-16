@@ -1,2 +1,5 @@
 # ignore compiled python code
 *.pyc
+
+# ingore tmp txt files
+*.swp
