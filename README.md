@@ -18,8 +18,10 @@ PyUserInput
 
 Download Xlib
 
+Goto directory to hold the temp files.
+
 ```
-https://sourceforge.net/projects/python-xlib/?source=typ_redirect
+wget https://sourceforge.net/projects/python-xlib/?source=typ_redirect
 ```
 Unpack and enter directory
 
