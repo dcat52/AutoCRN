@@ -28,6 +28,9 @@ def crnWriter(crns):
     k.press_key(k.alt_key)
     time.sleep(0.20)
     k.tap_key(k.tab_key)
+    time.sleep(0.20)
+    k.tap_key(k.tab_key)
+    time.sleep(0.20)
     k.release_key(k.alt_key)
     time.sleep(0.20)
     
